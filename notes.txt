@@ -1,0 +1,88 @@
+All in One Dev Application:
+	
+####### Frontend Work #######
+
+project setup:
+	- folder structre 
+	- linting setup
+
+angular master project :
+	- login page
+	- sign up page
+	- forget pasword page
+	- reset password page
+	- interceptor
+	- angualr 19 work
+	- create different-2 project in it
+		- todo application 
+		- authentication 
+		- e-commerse websites
+		- movie recommendation 
+		- hotel management etc
+	
+	- refresh token and token setup work
+	- Store configuration work 
+	- material
+	- 
+
+
+
+
+
+####### Backend work node #######
+
+database:
+	- postgres : ORM (prisma, Sequelize)
+	- mongoDB: ORM (mogoose)
+	- relationship b/w tables if rds
+	- docker setup / AWS DB setup / local DB setup
+
+project setup:
+	- middleware setup
+	- routers logic
+	- folder structure
+	- linting
+
+API creation:
+	- All types of API (GET, POST, PUT, PATCH, DELETE etc)
+	- API validation for data
+	- status codes
+	- error handiling
+	- rate limiter
+	
+Authtication game:
+	- login 
+	- reset
+	- forget 
+	- logout
+	- signup
+
+Token authentication:
+	- refresh token logic
+	- token checker
+	
+Session, localstorage, cookie game:
+	- login session 
+	- logout session
+	- kart cookie
+	- refresh cookie
+	- 15min, 1hr logout logic
+		
+
+
+
+future backend:
+
+codding patterns improve:
+	- all 13 patterns 
+
+pipeline setup:
+	- yaml codes [on push, merge request etc]
+	- deployment ways
+
+cloud development:
+	- AWS CDK hands on
+
+
+
+
